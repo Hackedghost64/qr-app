@@ -1,0 +1,32 @@
+# Gradle & build files
+.gradle/
+build/
+app/build/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing & Keys
+*.jks
+*.keystore
+keystore.properties
+
+# Build artifacts
+*.apk
+*.aab
+
+# Tool artifacts
+.devrith/
